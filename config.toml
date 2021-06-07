@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cranky-swirles-6f54dd.netlify.app/"
 languageCode = "en-us"
 title = "code kulture"
 theme = "ananke"
